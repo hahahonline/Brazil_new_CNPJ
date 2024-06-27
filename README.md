@@ -21,8 +21,8 @@ Este projeto oferece um exemplo prático de código em Python que:
 
 1. **Clone o Repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/hahahonline/Brazil_new_CNPJ.git
+    cd Brazil_new_CNPJ
     ```
 
 2. **Abra o Notebook no Google Colab:**
