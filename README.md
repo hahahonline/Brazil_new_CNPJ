@@ -10,3 +10,6 @@ Valida o novo formato alfanumérico do CNPJ.
 Armazena CNPJs válidos em uma estrutura de dados apropriada.
 Permite a busca eficiente de CNPJs armazenados.
 Este código pode ser utilizado no Google Colab para facilitar a experimentação e a adaptação às novas regras. Confira o exemplo abaixo e adapte conforme necessário para suas necessidades.
+
+
+Link do projeto no COLAB: https://colab.research.google.com/drive/1wgM5i94lcbP2c2ComVk3iVsElMUAVY4U?usp=sharing
